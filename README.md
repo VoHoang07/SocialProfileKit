@@ -20,8 +20,6 @@ A UIKit-based demo app that simulates a simple social media Feed and Profile scr
 - Views: Cells, Headers
 - Models
 
-## How to Run
-Open `SocialProfileKit.xcodeproj` and run on iOS Simulator.
 ## Screenshots
 
 ### Feed
@@ -29,4 +27,7 @@ Open `SocialProfileKit.xcodeproj` and run on iOS Simulator.
 
 ### Profile
 ![Profile](profile.png)
+
+## How to Run
+Open `SocialProfileKit.xcodeproj` and run on iOS Simulator.
 
