@@ -25,8 +25,8 @@ Open `SocialProfileKit.xcodeproj` and run on iOS Simulator.
 ## Screenshots
 
 ### Feed
-![Feed](Screenshots/feed.png)
+![Feed](feed.png)
 
 ### Profile
-![Profile](Screenshots/profile.png)
+![Profile](profile.png)
 
